@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.2.2",
+  "iOS" : [
+    {
+      "name" : "GTMSessionFetcherIOS",
+      "hash" : "ba24380eabe161affd1f82197dde471a2526c2663c7a9f10d1d00d5e4f9dfe14"
+    }
+  ]
+}
